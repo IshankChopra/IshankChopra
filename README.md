@@ -8,12 +8,16 @@
 Myself <b>Ishank Chopra</b> <img src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" height=75>
 </p>
 <hr>
-<a href="https://www.linkedin.com/in/ishank-chopra-17b107197/"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height=20 alt="Linkedin" height="75"></a>
+                                                                                                                
+<p align="center">
+    <a href="https://www.linkedin.com/in/ishank-chopra-17b107197/"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height=20 alt="Linkedin" height="75"></a>
 <a href="https://www.hackerrank.com/lavi_chopra">
 <img src="https://qph.fs.quoracdn.net/main-qimg-26e9dd798ae895083b30f990eb9fd201.webp" alt="HackerRank" height="25"> </a>
 
 <a href="https://leetcode.com/ishank_chopra/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"></a>
+
+</p>
 
 
 
