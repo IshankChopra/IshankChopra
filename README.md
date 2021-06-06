@@ -55,3 +55,5 @@ Here are some ideas to get you started:-->
 </ul>
 
 My Tech Box:
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+
